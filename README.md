@@ -1,5 +1,5 @@
 
-## Introduction to Google Colab & NumPy
+## Introduction
 
 This project serves as an introductory guide to using Google Colab and NumPy for numerical computations and machine learning workflows. The goal is to familiarize users with cloud-based computing environments and the foundational library for numerical computations in Python.
 
